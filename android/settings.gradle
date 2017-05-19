@@ -1,0 +1,3 @@
+rootProject.name = 'RefreshControlIssue'
+
+include ':app'
